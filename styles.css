@@ -1,0 +1,12 @@
+body{
+background-color: yellow;
+}
+main{
+padding: 20px;
+}
+section{
+margin-bottom: 20px;
+}
+h2,h3{
+color: red;
+}
